@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunkumar S
-- 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning Java Full Stack.
+- 👀 I’m interested in Web Developer and UX&UI.
+- 🌱 I’m currently learning Java Full Stack Developing.
 - 📫 How to reach me @er-arunkumarselvam
 
 <!---
