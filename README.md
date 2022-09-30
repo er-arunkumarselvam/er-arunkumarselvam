@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arunkumar S
 - 👀 I’m interested in Web Developer and UX&UI.
 - 🌱 I’m currently learning Java Full Stack Developing.
-- 📫 How to reach me @er-arunkumarselvam
+- 📫 How to reach me @er-arunkumarselvam in Github
 - Follow us My Behance Profile and Github
 
 <!---
