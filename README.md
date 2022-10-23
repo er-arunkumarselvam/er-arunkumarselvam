@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer and UX&UI Design.
 - 🌱 I’m currently learning Java Full Stack Developing.
 - 📫 How to reach me @er-arunkumarselvam in Github
-- Follow us My Behance Profile and Github
+- Follow us My Behance Profile and Github profile. 
 
 <!---
 er-arunkumarselvam/er-arunkumarselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
