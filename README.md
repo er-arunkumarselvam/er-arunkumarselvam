@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arunkumar S
+- 👋 Hi, I’m Arunkumar Selvam
 - 👀 I’m interested in Web Developer and UX&UI Design.
 - 🌱 I’m currently learning Full Stack Developing.
 - 📫 How to reach me @er-arunkumarselvam in Github
