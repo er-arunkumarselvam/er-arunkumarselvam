@@ -8,6 +8,7 @@
 
 I am interested in web development and UX/UI design. Right now, I am learning full-stack development. You can contact me on GitHub at @er-arunkumarselvam.
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=er-arunkumarselvam&langs_count=6&theme)]()
 
 <!---
 er-arunkumarselvam/er-arunkumarselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
