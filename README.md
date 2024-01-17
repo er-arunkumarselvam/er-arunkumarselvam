@@ -25,6 +25,10 @@ I am interested in web development and UX/UI design. Right now, I am learning fu
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
+#### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=er-arunkumarselvam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 
 
 <!---
