@@ -8,7 +8,7 @@
 
 I am interested in web development and UX/UI design. Right now, I am learning full-stack development. You can contact me on GitHub at @er-arunkumarselvam.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=er-arunkumarselvam&langs_count=6&theme)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=er-arunkumarselvam&langs_count=6&theme)]()-->
 
 #### Tech Stack I used with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
