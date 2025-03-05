@@ -29,6 +29,7 @@ I am interested in web development and UX/UI design. Right now, I am learning fu
 #### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=er-arunkumarselvam&theme=light&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=er-arunkumarselvam&locale=ta)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=er-arunkumarselvam&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
