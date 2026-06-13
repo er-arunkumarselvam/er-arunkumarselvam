@@ -26,12 +26,7 @@ I am interested in web development and UX/UI design. Right now, I am learning fu
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> -->
 
-#### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=er-arunkumarselvam&theme=light&hide_border=false&include_all_commits=false&count_private=false)
-
-<!--#### 📊 Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/arunkumar_selvam?theme=dark)-->
 
 
 <!---
