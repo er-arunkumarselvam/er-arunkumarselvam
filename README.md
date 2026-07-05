@@ -15,8 +15,8 @@ I am interested in web development and UX/UI design. Right now, I am learning fu
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> -->
+<!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> -->
 <!-- <code><img height="50" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
