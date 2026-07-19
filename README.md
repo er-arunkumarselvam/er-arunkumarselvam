@@ -4,9 +4,10 @@
 [![Behance](https://img.shields.io/badge/-Arunkumar_Selvam-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/arunkumarselvam)](https://www.behance.net/arunkumarselvam)
 ![](https://komarev.com/ghpvc/?username=er-arunkumarselvam&color=brightgreen&style=for-the-badge)
 
+UX/UI Designer & Frontend Developer @ Tforo
 
 <!-- - 🔭 Here's my [portfolio](https://hareesh.web.app/)  --> 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning Core Java and Spring Boot and I'm gaining hands-on experience through paractice.
 
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=er-arunkumarselvam&langs_count=6&theme)]()-->
 
